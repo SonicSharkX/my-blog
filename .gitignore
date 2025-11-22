@@ -79,6 +79,4 @@ npm-debug.log*
 go.*
 
 *.lock
-**/package-lock.json
-package-lock.json
 
