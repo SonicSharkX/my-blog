@@ -12,9 +12,8 @@ authors:
   - admin
 
 tags:
-  - Military tank
+  - Military tanks
   - M1A2 tank
 ---
-
 
 blah blah

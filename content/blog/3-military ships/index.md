@@ -12,7 +12,5 @@ authors:
   - admin
 
 tags:
-  - Military planes
-  - X-43A
-  - F-22  
+  - Military ships
 ---

@@ -1,0 +1,13 @@
+figure.centered {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+figure.centered img {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+figure.centered figcaption {
+  text-align: center;
+}

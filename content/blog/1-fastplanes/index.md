@@ -1,5 +1,5 @@
 ---
-title: This is some imformation about X-43A and other very fast planes.
+title: This is some imformation about X-43A and other super fast planes.
 summary: Hello this is the summary
 date: 2025-11-08
 
@@ -15,6 +15,14 @@ tags:
   - Military planes
   - X-43A
   - F-22  
+  - B-58
+  - SO-9000 Trident
+  - XB-70 Valkrie
+  - SR-71 Blackbird
+  - A-12
+  - F-22 Raptor
+  - U-2 
+  - SR-72 Darkstar
 ---
 
 {{< toc mobile_only=true is_open=true >}}
@@ -33,14 +41,36 @@ These are some facts about what it looked like before and after takeoff:
 
 - The X-43A was connected to the nose of a **Pegasus booster rocket** for its flights. The rocket(X-43A is on the rocket for now, it will separate later), in turn, was carried aloft and air-launched by a **B-52B** bomber.
 - The X-43A separated from the Pegasus booster at an altitude of about 95,000 feet.
-## Other fast planes
-Now, this stuff is about fast planes in the 1900s. 
-- 1. **SO-9000 Trident**: It is powered by 2 jet engines and 2 rocket engines. It could fly at mach 2 - which was very fast in the 1958s. 
-- 2. **XB-70 Valkrie**: It could fly at mach 3. Suppose to replace the B-58. Only 2 were ever built, but one was destroyed in a midair collision with a **F-104 Starfighter**
-- 3. **B-58**: It had **4 General Electric J79-GE-1 turbojet engines**. The B-58 can fly speeds up to mach 2.
-The wings and most of the fuselage are filled with fuel.
-These are other 
-## Stay tuned!
-here is a jet engine design: ![alt engine design](/images/jet-engine-design.jpg)
 
-here is another one: {{< figure src="/images/jet-engine-design2.jpg" title="engine cross section" width="200" >}}
+## Early-stage fast planes
+Now, this stuff is about fast planes in the early 1946-1963. 
+
+### SO-9000 Trident
+It is powered by 2 jet engines and 2 rocket engines. It could fly at **mach 2** - which was very fast in the 1958s. 
+### XB-70 Valkrie
+ It could fly at **mach 3**. Suppose to replace the B-58. Only 2 were ever built, but one was destroyed in a midair collision with a **F-104 Starfighter**
+### B-58
+ It had **4 General Electric J79-GE-1 turbojet engines**. The B-58 can fly speeds up to mach 2.
+The wings and most of the fuselage are filled with fuel.
+
+## More recent developments
+These are other fast modern and cold war made planes. One of these planes might still be studied(only government people know for sure if it is real).
+
+### SR-71 Blackbird
+ First used for supersonic testing, then used for spying on Russia. It could fly at speeds up to **Mach 3.32**. It could fly at altitudes over 85,000 feet. 
+### A-12
+ The Lockheed A-12 had a top speed of over Mach 3.29, with a sustained speed of Mach 3.2 (approximately 2,208 mph). The A-12 was officially declared fully operational in 1965, having attained a sustained speed of Mach 3.2 (over 2,200 mph) at an altitude of 90,000 feet.
+### F-22
+{{< figure src="/images/1-fastplanes/f22-free-image-pixabay.jpg" title="F22 jetplane (royalty-free image from pixabay)" width="600" class="centered">}}
+ The F-22 Raptor's top speed is Mach 2.25 (around 1,500 mph or 2,414 km/h). This military plane is highly maneuverable and earned the name **King of the Skies**.
+### U-2
+ The top speed of the U-2 is around 500 mph (805 km/h), although this can vary slightly depending on the specific variant. Early models had different specifications, such as the U-2A having a maximum speed of 528 mph (850 km/h). The U-2 spy plane's highest altitude is above 70,000 feet, which is its operational ceiling. While its standard ceiling is over 70,000 feet, it has achieved higher altitudes in specific missions, with one record-setting flight reaching 74,000 feet. It was used to spy on Russia.
+### SR-72
+ The SR-72 Darkstar's top speed is projected to be Mach 6, which is approximately 4,000 mph or 6,400 km/h. This would make it significantly faster than its predecessor, the SR-71 Blackbird. The aircraft is intended for strategic reconnaissance and potentially strike missions, leveraging its hypersonic speed to operate in contested environments. The SR-72 "Darkstar" is expected to fly above 80,000 feet, with some speculation suggesting it will operate at an altitude of 85,000 feet. This is based on its planned speed of Mach 6 (approximately 4,600 mph). This is the plane that might still be studied. One thing every one knows is that it will come out soon!
+  So lets wrap up. In this text you learned about the **X-43A** and other fast planes.
+
+## Stay tuned!
+Make sure you read the rest of the texts below **The X-43A and other fast planes**!
+
+
+here is engine image: {{< figure src="/images/1-fastplanes/jet-engine-design2.jpg" title="engine cross section" width="200" >}}
