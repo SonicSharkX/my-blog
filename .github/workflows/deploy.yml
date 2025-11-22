@@ -34,21 +34,24 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      # Only set up pnpm if package.json exists in the repo
-      - name: Setup pnpm
-        if: ${{ hashFiles('package.json') != '' }}
-        uses: pnpm/action-setup@v4
+      # # Only set up pnpm if package.json exists in the repo
+      # - name: Setup npm
+      #   if: ${{ hashFiles('package.json') != '' }}
+      #   uses: pnpm/action-setup@v4
 
       # Install node dependencies only if package.json exists
       - name: Install dependencies
         if: ${{ hashFiles('package.json') != '' }}
         run: |
-          # prefer pnpm if available, fall back to npm
-          if command -v pnpm >/dev/null 2>&1; then
-            pnpm install --frozen-lockfile || pnpm install
-          else
-            npm ci || npm install
-          fi
+          # # prefer pnpm if available, fall back to npm
+          # if command -v pnpm >/dev/null 2>&1; then
+          #   pnpm install --frozen-lockfile || pnpm install
+          # else
+          #   npm ci || npm install
+          # fi
+          npm ci --prefer-offline --no-audit --no-fund
+        env:
+          CI: true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
