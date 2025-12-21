@@ -62,10 +62,9 @@ The British Mark V tank was an improvement over the Mark IV, featuring a more po
 The Renault FT was a French light tank. The Renault FT-17 was powered by a Renault 4-cylinder, 4.5-liter, water-cooled gasoline engine.
 
 ### m18 hellcat
-Th m18 hellcat is a American tank destroyer. It was designed to destroy  heavy tanks like the *German Tiger tank*.
+Th m18 hellcat is a American tank destroyer. It was designed to destroy heavy tanks like the *German Tiger tank*.
 
 ### British whippet
 The British Medium Mark A "Whippet" was a crucial and effective British medium tank of World War I, designed for speed to exploit breakthroughs in enemy lines. The Whippet was designed to complement the slow, heavy British tanks by using its greater speed and mobility to scout, harass enemy rear positions, and sow confusion. It was the fastest British tank of the Great War, with a top speed of approximately 8.3 mph 13.4 km, which was more than double the speed of the earlier Mark series tanks. It was armed with four .303-inch (7.7mm) Hotchkiss machine guns mounted in a fixed, rear-facing, polygonal superstructure, covering all four directions. The crew was typically three people, so a gunner would have to move between the gun positions.
 
-### tiger1
-
+### tiger 1
