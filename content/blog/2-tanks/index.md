@@ -23,6 +23,7 @@ tags:
   - t-34-85
   - tiger 1
   - tiger2/king tiger
+  - kf-51 tank
   - mark 5
   - British Whippet
   - French Renault FT 
@@ -68,3 +69,4 @@ Th m18 hellcat is a American tank destroyer. It was designed to destroy heavy ta
 The British Medium Mark A "Whippet" was a crucial and effective British medium tank of World War I, designed for speed to exploit breakthroughs in enemy lines. The Whippet was designed to complement the slow, heavy British tanks by using its greater speed and mobility to scout, harass enemy rear positions, and sow confusion. It was the fastest British tank of the Great War, with a top speed of approximately 8.3 mph 13.4 km, which was more than double the speed of the earlier Mark series tanks. It was armed with four .303-inch (7.7mm) Hotchkiss machine guns mounted in a fixed, rear-facing, polygonal superstructure, covering all four directions. The crew was typically three people, so a gunner would have to move between the gun positions.
 
 ### tiger 1
+The most feared tank of world war 2. Both superior in armor and firepower.
